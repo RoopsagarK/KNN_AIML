@@ -1,0 +1,8 @@
+weight,color,label
+150,red,apple
+200,green,not_apple
+160,red,apple
+180,green,not_apple
+140,yellow,apple
+190,red,not_apple
+130,yellow,apple
